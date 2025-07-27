@@ -2,4 +2,4 @@
 All the resources for self-taught AI developer
 
 
-Section 1: Mathematics for AI/Machine Learning
+Section 1: Mathematics for AI / Machine Learning
