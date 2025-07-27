@@ -1,2 +1,2 @@
-# AI_Learn_By_Yourself
+# Learn AI By Yourself 
 All the resources for self-taught ai developer
